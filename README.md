@@ -17,18 +17,15 @@ I'm currently exploring roles that blend **technical problem-solving, user empat
 
 ## 🚀 Recent Projects
 
-- **Climbing Resume Generator**  
-  A Flask app that turns your Mountain Project ticklist CSV into a custom climbing resume, with top 5 crags and grade breakdowns.  
-  _Tech: Flask, Pandas, HTML/CSS_
+- **CollabCanvas / North Pole**  
+  A collaborative design tool used to mock up UX, make art etc. Test my AI Santa's Helper.
 
 - **AI Feedback Workflow Design @ Scale AI**  
   Created interfaces and prompt strategies for annotators to improve LLM code documentation.  
   _Focus: RLHF, prompt design, linting logic_
 
-- **Roast Generator**  
-  An open-source app that uses Ollama + Flask to generate light-hearted AI roasts.  
-  _Just for fun :)_
-
+- **Video Editor**
+  Created a loom-esque video editor, AI-enabled transcriber to create my demos.
 ---
 
 ## 🧰 Languages & Tools
