@@ -2,7 +2,7 @@
 
 I'm a data scientist and technical generalist passionate about building thoughtful AI products. I recently earned my MS in Data Science from UT Austin and thrive at the intersection of product, engineering, and communication.
 
-I'm currently exploring roles that blend **technical problem-solving, user empathy, and rapid iteration** — especially in early-stage or high-impact teams.
+I'm currently exploring roles that blend **technical problem-solving, user empathy, and rapid iteration** especially in early-stage or high-impact teams.
 
 ---
 
