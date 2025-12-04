@@ -6,9 +6,9 @@ I'm currently exploring roles that blend **technical problem-solving, user empat
 
 Here are some projects I've deployed recently:
 
-![Tutoring Churn Dashboard](https://tutor-psi-teal.vercel.app/)
-![AI Video Generator](https://ai-video-generation-pipeline-production.up.railway.app/)
-![Figma Clone](https://collab-canvas-ivory.vercel.app/)
+[Tutoring Churn Dashboard](https://tutor-psi-teal.vercel.app/)
+[AI Video Generator](https://ai-video-generation-pipeline-production.up.railway.app/)
+[Figma Clone](https://collab-canvas-ivory.vercel.app/)
 
 ---
 
