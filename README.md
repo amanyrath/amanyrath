@@ -4,6 +4,12 @@ I'm a data scientist and technical generalist passionate about building thoughtf
 
 I'm currently exploring roles that blend **technical problem-solving, user empathy, and rapid iteration** especially in early-stage or high-impact teams.
 
+Here are some projects I've deployed recently:
+
+![Tutoring Churn Dashboard](https://tutor-psi-teal.vercel.app/)
+![AI Video Generator](https://ai-video-generation-pipeline-production.up.railway.app/)
+![Figma Clone](https://collab-canvas-ivory.vercel.app/)
+
 ---
 
 ## 🛠️ What I Do
